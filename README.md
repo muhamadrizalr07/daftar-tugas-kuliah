@@ -69,6 +69,7 @@ Seluruh kode berada di `lib/main.dart`:
 
 ## Identitas
 
-- **Nama:** [ISI NAMA LENGKAP]
-- **NIM:** [ISI NIM]
-- **Kelas:** [ISI KELAS]
+- **Nama:** Muhamad Rizal Rivardi
+- **NIM:** C2483207007
+- **Kelas:** PTI5A
+- 
