@@ -72,4 +72,4 @@ Seluruh kode berada di `lib/main.dart`:
 - **Nama:** Muhamad Rizal Rivardi
 - **NIM:** C2483207007
 - **Kelas:** PTI5A
-- 
+  
